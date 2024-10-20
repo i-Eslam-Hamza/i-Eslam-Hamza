@@ -59,8 +59,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/i-eslam-hamza/count.svg)
  -->
- <hr align="center"  style="border: 2px solid #000;">
-<br>
+<hr align="center"  style="border: 2px solid #000;">
 <div align="center"><img  width=20% src="https://img.shields.io/badge/My-Projects-blue"></a>
 <br>
 <br>
@@ -77,7 +76,7 @@
 <hr align="center"  style="border: 2px solid #000;">
 <div align="center"><img  width=20% src="https://img.shields.io/badge/My-Contacts-blue">
 <p align="center">
-<a href="ieslamhamza@gmail.com"><img align="center" src="https://img.shields.io/badge/Eslam_Hamza-black?logo=gmail"/></a>
+<a href="https://www.ieslamhamza@gmail.com"><img align="center" src="https://img.shields.io/badge/Eslam_Hamza-black?logo=gmail"/></a>
 <a href="https://github.com/i-Eslam-Hamza"><img align="center" src="https://img.shields.io/badge/-Eslam_Hamza-black?logo=github"/></a>
 <a href="https://www.linkedin.com/in/elsam-hamza-ba8393315/"><img align="center" src="https://img.shields.io/badge/Eslam_Hamza-blue?logo=linkedin"></a>
 <a href="https://wa.me/+971545059702"><img align="center" src="https://img.shields.io/badge/Eslam_Hamza-black?logo=whatsapp"></a>
