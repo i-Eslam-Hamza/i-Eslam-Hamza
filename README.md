@@ -92,9 +92,9 @@
 <!-- -------------------------------------------------------------------------------------------------------------------------------->
 <!----FINAL SECTION------->
 
-<img width=10% src="https://img.shields.io/badge/Credits-Eslam_Hamza-black">
+<img width=20% src="https://img.shields.io/badge/Credits-Eslam_Hamza-black">
 
-<img width=15% src="https://img.shields.io/badge/Last_Edited_on-20/10/2024-black">
+<img width=20% src="https://img.shields.io/badge/Last_Edited_on-20/10/2024-black">
 
 </td></tr>
 </tbody>
