@@ -2,7 +2,7 @@
 <p align="center"><img  alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJpc29vNTl2YzNsemRkdmtnMG45ODFqajliY29rNmlpNnFjZmo3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width = 400/ >
 <!-- -------------------------------------------------------------------------------------------------------------------------------->
 <!----GREETINGS SECTION------->
-<p align="center" style="font-family:cursive; font-size:20px"> Hi👋, I'm Eslam Hamza✅ </p>
+<h3 align="center" style="font-family:cursive; font-size:20px"> Hi👋👋, I'm Eslam Hamza✅✌️ </h3>
 <h1 align="center" style="border: 2px solid #000; box-shadow: 0 0 0 2px #000, 0 0 0 5px #900; background: ; font-family: Lucida Handwriting; height:25px"> A CERTIFIED DATA ANALYST </H1>
 <!-- -------------------------------------------------------------------------------------------------------------------------------->
 <!----OPPENNING A TABLE CELL TO COLOR THE BACKGROUND------->
