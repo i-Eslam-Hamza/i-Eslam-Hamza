@@ -2,8 +2,8 @@
 <p align="center"><img  alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJpc29vNTl2YzNsemRkdmtnMG45ODFqajliY29rNmlpNnFjZmo3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width = 400/ >
 <!-- ................................................................................................................................>
 <! GREETINGS SECTION  -->
-<h3 align="center" style="font-family:cursive; font-size:20px"> $$\color{lightblue}Hi$$👋👋, $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}My \space Profile}$$ , I'm Eslam Hamza✅✌️  </h3>
-<h1 align="center" style="border: 2px solid #000; box-shadow: 0 0 0 2px #000, 0 0 0 5px #900; background: ; font-family: Lucida Handwriting; height:25px"> $${\color{lightblue}A \space \color{darkred}CERTIFIED \space \color{green}DATA \space \color{green}ANALYST}$$ </h1>
+<h3 align="center" style="font-family:cursive; font-size:20px"> $${\color{black}Hi👋👋,\space Welcome \space To \space My \space Profile, \space I'm \space Eslam \space Hamza✌️}$$  </h3>
+<h1 align="center" style="border: 2px solid #000; box-shadow: 0 0 0 2px #000, 0 0 0 5px #900; background: ; font-family: Lucida Handwriting; height:25px"> $${\color{darkred}A \space \color{darkred}CERTIFIED \space \color{green}DATA \space \color{green}ANALYST}$$ </h1>
 <!-- ................................................................................................................................>
 <! OPPENNING A TABLE CELL TO COLOR THE BACKGROUND -->
 <table style="border: 2px solid #000;" align='center';> 
