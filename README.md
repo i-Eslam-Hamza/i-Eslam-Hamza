@@ -70,8 +70,7 @@
 <a href="https://coursera.org/share/f3309c306a05936912bfe161c6bbd7b4"><img align="center" src="https://img.shields.io/badge/IBM-Python_for_Data_Science,_AI_&_Development-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/a81b14712b6cb3e466929d902bb6cc70"><img align="center" src="https://img.shields.io/badge/IBM-Python_Project_for_Data_Science-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/fdbd55bd34c4ea18075361d762e118ce"><img align="center" src="https://img.shields.io/badge/IBM-Databases_and_SQL_for_Data_Science_with_Python-blue?logo=coursera"/></a>
-<a href="https://coursera.org/share/c06bcdda91136f700f64d9b5e46c4b72"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python
--blue?logo=coursera"/></a>
+<a href="https://coursera.org/share/c06bcdda91136f700f64d9b5e46c4b72"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/5f0cf980b73a604a56094b7ccbb961e0"><img align="center" src="https://img.shields.io/badge/IBM-Data_Visualization_with_Python-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/92b98785d33905284e484000c03a2039"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analyst_Capstone_Project-blue?logo=coursera"/></a>
 
