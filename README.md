@@ -3,7 +3,7 @@
 <!-- ................................................................................................................................>
 <! GREETINGS SECTION  -->
 <h3 align="center" style="font-family:cursive; font-size:20px"> $$\color{lightblue}Hi$$👋👋, $${\color{red}Welcome \space \color{lightblue}To \space \color{orange}My \space Profile}$$ , I'm Eslam Hamza✅✌️  </h3>
-<h1 align="center" style="border: 2px solid #000; box-shadow: 0 0 0 2px #000, 0 0 0 5px #900; background: ; font-family: Lucida Handwriting; height:25px"> $${\color{lightblue}A \space \color{darkred}CERTIFIED \space \color{green}DATA \space \color{green}ANALYST}$$ </H1>
+<h1 align="center" style="border: 2px solid #000; box-shadow: 0 0 0 2px #000, 0 0 0 5px #900; background: ; font-family: Lucida Handwriting; height:25px"> $${\color{lightblue}A \space \color{darkred}CERTIFIED \space \color{green}DATA \space \color{green}ANALYST}$$ </h1>
 <!-- ................................................................................................................................>
 <! OPPENNING A TABLE CELL TO COLOR THE BACKGROUND -->
 <table style="border: 2px solid #000;" align='center';> 
@@ -73,8 +73,7 @@
 <a href="https://coursera.org/share/c06bcdda91136f700f64d9b5e46c4b72"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python
 -blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/5f0cf980b73a604a56094b7ccbb961e0"><img align="center" src="https://img.shields.io/badge/IBM-Data_Visualization_with_Python-blue?logo=coursera"/></a>
-<a href="https://coursera.org/share/92b98785d33905284e484000c03a2039"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analyst_Capstone_Project
--blue?logo=coursera"/></a>
+<a href="https://coursera.org/share/92b98785d33905284e484000c03a2039"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analyst_Capstone_Project-blue?logo=coursera"/></a>
 
 <a href="https://coursera.org/share/6daf8d1071c5e058ca5696cbebebf9a3"><img align="center" src="https://img.shields.io/badge/Imperial_college_London-Mathematics_for_Machine_Learning:_Linear_Algebra-darkblue?logo=coursera"/></a>
 <a href="https://coursera.org/share/7aa44fe0358bfd22cd657e726e7cf1b8"><img align="center" src="https://img.shields.io/badge/Imperial_college_London-Mathematics_for_Machine_Learning:_Multivariate_Calculus-darkblue?logo=coursera"/></a>
