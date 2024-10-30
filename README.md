@@ -73,6 +73,8 @@
 <a href="https://coursera.org/share/c06bcdda91136f700f64d9b5e46c4b72"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analysis_with_Python-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/5f0cf980b73a604a56094b7ccbb961e0"><img align="center" src="https://img.shields.io/badge/IBM-Data_Visualization_with_Python-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/92b98785d33905284e484000c03a2039"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analyst_Capstone_Project-blue?logo=coursera"/></a>
+<a href="https://coursera.org/share/11c144d2a0b8598786e236148645757b"><img align="center" src="https://img.shields.io/badge/IBM-Generative_AI_Enhance_your_Data_Analytics_Career-blue?logo=coursera"/></a>
+
 
 <a href="https://coursera.org/share/6daf8d1071c5e058ca5696cbebebf9a3"><img align="center" src="https://img.shields.io/badge/Imperial_college_London-Mathematics_for_Machine_Learning:_Linear_Algebra-darkblue?logo=coursera"/></a>
 <a href="https://coursera.org/share/7aa44fe0358bfd22cd657e726e7cf1b8"><img align="center" src="https://img.shields.io/badge/Imperial_college_London-Mathematics_for_Machine_Learning:_Multivariate_Calculus-darkblue?logo=coursera"/></a>
