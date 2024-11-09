@@ -47,23 +47,26 @@
 <hr align="center"  style="border: 2px solid #000;">
 <!-- ................................................................................................................................>
 <! PROJECTS SECTION -->
-<div align="center"><img  width=15% src="https://img.shields.io/badge/My-Projects-blue"></a>
+<div align="center"><img  width=15% src="https://img.shields.io/badge/My-Projects-blue"></div>
 <br>
-<br>
-<br>
-<br>
-<br>
-<p align="center"> being prepared... have a snack 🍔🍟
-<br>
-<br>
-<br>
-<br>
+<p align='left'>
+<a href="https://github.com/i-Eslam-Hamza/IBM-Data-Analysis-Capstone-Project">1- IBM Data Analysis Capstone Project Dashboard and Report</a></p>
+<p align='left'>
+<a href="https://github.com/i-Eslam-Hamza/Projects/tree/35717eb5e8fae16173bba45ad33117e0a591fc59/Excel_Project_on_Car_Sales_dataset">2- Excel Project on Car Sales dataset </a></p>
+<p align='left'>
+<a href="https://github.com/i-Eslam-Hamza/Projects/tree/35717eb5e8fae16173bba45ad33117e0a591fc59/stock_Market_web_scraping">3- Stock Market Web Scraping </a></p>
+<p align='left'>
+<a href="https://github.com/i-Eslam-Hamza/Projects/tree/35717eb5e8fae16173bba45ad33117e0a591fc59/Python_Visualizations_on_Olympic_Games_1994_2024">4- Python Visualizations on Olympic Games 1994_2024</a></p>
+<p align='left'>
+<a href="https://github.com/i-Eslam-Hamza/Projects/tree/35717eb5e8fae16173bba45ad33117e0a591fc59/Generative_AI_Project">5- Generative AI Project</a></p>
 <br>
 <hr align="center"  style="border: 2px solid #000;">
 <!-- ................................................................................................................................>
 <! CERTIFICATES SECTION -->
 <div align="center"><img  width=15% src="https://img.shields.io/badge/My-Certificats-darkred?"></div>
 <p align="center">
+<a href="https://www.coursera.org/account/accomplishments/professional-cert/MK1B58S3RYD0"><img align="center" src="https://img.shields.io/badge/IBM-Data_Analyst-darkblue?logo=coursera"/></a>
+
 <a href="https://coursera.org/share/230f6591e8959b6e5d8e57122c86b404"><img align="center" src="https://img.shields.io/badge/IBM-Introduction_to_Data_Analysis-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/62870f5b843b8b5179ab7d0e9d761319"><img align="center" src="https://img.shields.io/badge/IBM-Excel_Basics_for_Data_Analysis-blue?logo=coursera"/></a>
 <a href="https://coursera.org/share/cfc6267cc24c53d5bdbc1392b01be6a3"><img align="center" src="https://img.shields.io/badge/IBM-Data_Visualization_and_Dashboards_with_Excel_and_Cognos-blue?logo=coursera"/></a>
@@ -94,7 +97,7 @@
 
 <img width=20% src="https://img.shields.io/badge/Credits-Eslam_Hamza-black">
 
-<img width=20% src="https://img.shields.io/badge/Last_Edited_on-20/10/2024-black">
+<img width=20% src="https://img.shields.io/badge/Last_Edited_on-10/11/2024-black">
 
 </td></tr>
 </tbody>
