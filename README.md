@@ -59,6 +59,8 @@
 <a href="https://github.com/i-Eslam-Hamza/Projects/tree/35717eb5e8fae16173bba45ad33117e0a591fc59/Python_Visualizations_on_Olympic_Games_1994_2024">4- Python Visualizations on Olympic Games 1994_2024</a></p>
 <p align='left'>
 <a href="https://github.com/i-Eslam-Hamza/Projects/tree/35717eb5e8fae16173bba45ad33117e0a591fc59/Generative_AI_Project">5- Generative AI Project</a></p>
+<p align='left'>
+<a href="https://github.com/i-Eslam-Hamza/Projects/tree/a071eadfe0ca7a4e59e35f7cf818a27e9c6dac2f/Analyzing%20a%20dataset%20on%20housing%20prices%20derived%20from%20the%20U.S.%20Census%20Service">6- Analyzing a dataset on housing prices derived from the U.S. Census Service</a></p>
 <br>
 <hr align="center"  style="border: 2px solid #000;">
 <!-- ................................................................................................................................>
